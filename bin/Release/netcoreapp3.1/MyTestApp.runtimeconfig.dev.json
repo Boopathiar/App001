@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\boopathia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\boopathia\\.nuget\\packages"
+    ]
+  }
+}
